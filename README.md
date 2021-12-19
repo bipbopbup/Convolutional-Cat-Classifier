@@ -17,7 +17,7 @@ So far results are pretty accurate with 60 epochs and this architecture:
 Model: "sequential"
 
  Layer (type)                Output Shape              Param  
-=================================================================
+
  conv2d (Conv2D)             (None, 498, 498, 32)      896       
                                                                  
  max_pooling2d (MaxPooling2D  (None, 249, 249, 32)     0         
