@@ -1,5 +1,7 @@
 # Convolutional-Cat-Classifier
 A convolutional network that classifies two cats: Ronnie and Chuchi. It has been programmed in python via Google Collabs.
+Chuchi (evil) is the white cat with brown spots and Ronnie (Good) is a ginger cat.
+ 
 ![alt text](https://github.com/bipbopbup/Convolutional-Cat-Classifier/blob/38db21306f994b11598975affd5bb19f4b625cbe/Gatingos/Chuchis/photo_2020-09-04_14-52-26.jpg)
 
 # Input
