@@ -15,8 +15,8 @@ I've implemented TensorFlow in order to assess the improvements of the model thr
 
 So far results are pretty accurate with 60 epochs and this architecture:
 Model: "sequential"
-_________________________________________________________________
- Layer (type)                Output Shape              Param #   
+
+ Layer (type)                Output Shape              Param  
 =================================================================
  conv2d (Conv2D)             (None, 498, 498, 32)      896       
                                                                  
