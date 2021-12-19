@@ -1,6 +1,6 @@
 # Convolutional-Cat-Classifier
 A convolutional network that classifies two cats: Ronnie and Chuchi. It has been programmed in python via Google Collabs.
-![alt text](Chuchis/photo_2020-09-04_14-52-26.jpg)
+![alt text](Chuchis/photo_2020-10-31_16-04-07.jpg)
 # Input
 This model has been trained with 2 image datasets which where uploaded to drive. It has been labeled with zeros (Ronnies) and 1 (Chuchis).
 Chuchis: Chuchi pictures
