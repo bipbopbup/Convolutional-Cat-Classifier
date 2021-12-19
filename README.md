@@ -4,9 +4,9 @@ A convolutional network that classifies two cats: Ronnie and Chuchi. It has been
 
 # Input
 This model has been trained with 2 image datasets which where uploaded to drive. It has been labeled with zeros (Ronnies) and 1 (Chuchis).
--Chuchis: Chuchi pictures
--Ronnie: Ronnie pictures
--Pruebas: Chuchis, Ronnies and random cats to see how it classifies with new fresh data
+- Chuchis: Chuchi pictures
+- Ronnie: Ronnie pictures
+- Pruebas: Chuchis, Ronnies and random cats to see how it classifies with new fresh data
 
 # Output
 I've implemented TensorFlow in order to assess the improvements of the model throughout my work.
