@@ -5,15 +5,15 @@ Chuchi (evil) is the white cat with brown spots and Ronnie (Good) is a ginger ca
 ![alt text](https://github.com/bipbopbup/Convolutional-Cat-Classifier/blob/38db21306f994b11598975affd5bb19f4b625cbe/Gatingos/Chuchis/photo_2020-09-04_14-52-26.jpg)
 
 # Input
-This model has been trained with a labeled dataset in Drive, but now you can access to a larger dataset in the Gatingos folder. The labels are zeros (Ronnies) and 1 (Chuchis). Folders:
+This model has been trained with a labeled dataset in Drive, but now you can access to a larger dataset in the Gatingos folder. The labels are zeros (Ronnies) and ones (Chuchis). Folders:
 - Chuchis: Chuchi pictures
 - Ronnie: Ronnie pictures
-- Pruebas: Chuchis, Ronnies and random cats to see how it classifies with new fresh data
+- Pruebas: Chuchis, Ronnies and random cats to see how well it classifies new fresh data
 
 # Output
-I've implemented TensorFlow in order to assess the improvements of the model throughout my work.
+TensorFlow has been implemented in order to assess the improvements of the model throughout my work.
 
-So far results are pretty accurate with 60 epochs and this architecture:
+So far results are pretty accurate with 100 epochs and the next architecture:
 Model: "sequential"
 
 _________________________________________________________________
