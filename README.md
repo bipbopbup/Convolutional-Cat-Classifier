@@ -5,7 +5,7 @@ Chuchi (evil) is the white cat with brown spots and Ronnie (Good) is a ginger ca
 ![alt text](https://github.com/bipbopbup/Convolutional-Cat-Classifier/blob/38db21306f994b11598975affd5bb19f4b625cbe/Gatingos/Chuchis/photo_2020-09-04_14-52-26.jpg)
 
 # Input
-This model has been trained with 2 image datasets which where uploaded to drive. It has been labeled with zeros (Ronnies) and 1 (Chuchis). The dataset is very small so I hope I can improve it over time.
+This model has been trained with a labeled dataset in Drive, but now you can access to a larger dataset in the Gatingos folder. The labels are zeros (Ronnies) and 1 (Chuchis). Folders:
 - Chuchis: Chuchi pictures
 - Ronnie: Ronnie pictures
 - Pruebas: Chuchis, Ronnies and random cats to see how it classifies with new fresh data
